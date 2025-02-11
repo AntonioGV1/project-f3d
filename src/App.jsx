@@ -40,7 +40,7 @@ export default function Home() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 min-h-screen mt-10 md:mt-16">
 
           {/* Image column */}
-          <div className="relative w-full h-[80vh] md:h-[100vh] lg:h-[140vh] flex justify-end items-center order-1 lg:order-3 overflow-hidden lg:col-span-2">
+          <div className="relative w-full h-[80vh] md:h-[100vh] lg:h-[180vh] flex justify-end items-center order-1 lg:order-3 overflow-hidden lg:col-span-2">
             <Canvas
               className="z-10 w-full h-full"
               style={{
